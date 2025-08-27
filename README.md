@@ -1,12 +1,62 @@
-# React + Vite
+# 📝 Task Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and modern **To-Do List App** designed to make task management simple, fast, and visually appealing.  
+Easily add, edit, and delete tasks with a smooth and stylish UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tech Stack
 
-## Expanding the ESLint configuration
+- **React** ⚛️ – Component-based UI  
+- **Tailwind CSS** 🎨 – Beautiful & responsive styling  
+- **Framer Motion** ✨ – Smooth animations  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- 🖋️ **Add, edit, and delete tasks** effortlessly.  
+- 🎨 **Gradient UI** with vibrant colors and modern aesthetics.  
+- 📱 **Fully responsive** – works perfectly on mobile and desktop.  
+- ⚡ **Fast & lightweight** – optimized for performance.  
+
+---
+
+## 🛠️ Installation & Setup
+
+## Clone the repository
+```bash
+git clone https://github.com/usmanmobeen111/Task-Manager-React.git
+```
+## Navigate into the project folder
+```bash
+cd Task-Manager-React
+```
+
+## Install dependencies
+```bash
+npm install
+```
+
+## Start development server
+```bash
+npm start
+```
+---
+
+## 🎯 Usage
+
+- Type your task in the input field.
+
+- Click Add to save your task.
+- Us Edit to update an existing task.
+- Use Delete to remove a task.
+- Mark tasks as completed by checking the box.
+
+---
+
+## 🌟 Future Enhancements
+
+- 🔔 Notifications for upcoming tasks.
+- 🗓️ Due dates and reminders.
+- 🌙 Dark mode support.
